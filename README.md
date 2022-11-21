@@ -53,32 +53,3 @@ Actions.
 
 9. Check out the images that have been created in the [`generated`](../output/generated)
    folder in `output` branch.
-
-10. Link back to this repository so that others can generate their own
-   statistics images.
-
-11. Star this repo if you like it!
-
-
-<br>
-<br>
-
-## 🤔 Why Transparent ??
-With the introduction of dark mode in Github it has become difficult to set an image background that looks consistent with the background in both dark and light mode. 
-
-To solve this the most obvious solution was to make the background transparent. All that was left was to choose colors for text that makes it legible in light as well as dark background.
-
-After wasting a day playing with different color values finally settled on one. Hope you like it. 
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/light.png)
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/dark.png)
-
-
-## Related Projects
-
-- Extension of a detached fork of [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-- Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
