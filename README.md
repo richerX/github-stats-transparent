@@ -2,21 +2,8 @@
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-> NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
-
-## ⚠️ Disclaimer
-
-The project uses access token that has read access to private repositories and if there is any
-exception while reading data from any repository it throws Exception which is printed in the workflow logs. 
-This exception will be viewable in the Actions tab of the repository fork, and
-anyone may be able to see the name of one or more private repositories.
+![](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/richerX/github-stats-transparent/output/generated/languages.svg)
 
 ## ⚙️ Installation
 
